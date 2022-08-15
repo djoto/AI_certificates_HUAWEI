@@ -1,4 +1,4 @@
 # AI certificates HUAWEI
 
 ## HCIA-AI certificate
-## HCIP-EI-Developer certificate
+## HCIP-AI EI-Developer certificate
